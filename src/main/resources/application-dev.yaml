@@ -1,0 +1,9 @@
+#active:
+#  mode: "dev"
+
+#quarkus:
+ # profile: "%test"
+
+#"%test":
+ # uri: "test"
+ # message: "message"

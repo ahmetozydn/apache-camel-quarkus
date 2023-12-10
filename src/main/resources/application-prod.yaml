@@ -1,0 +1,13 @@
+active:
+  mode: prod
+
+#inside: "prod"
+
+#quarkus:
+ # profile: uat
+
+#"%uat":
+ # uri: uat
+
+#"%test":
+ #   uri: "test"
